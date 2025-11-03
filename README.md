@@ -24,7 +24,7 @@
 | [Customer Churn Prediction](#) | Built a model to predict customer churn using logistic regression. | Python, Pandas, Scikit-learn |
 | [HR Analytics Dashboard](#) | Created an interactive HR analytics dashboard to track attrition and performance. | Power BI |
 
-🛠️ *(Replace # with project links once uploaded)*
+
 
 ---
 
