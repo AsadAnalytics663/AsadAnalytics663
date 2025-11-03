@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali Haider
 
-<!--
-**AsadAnalytics663/AsadAnalytics663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Data Analyst | Python | SQL | Power BI | Excel**  
+🔍 I love finding stories hidden in data and turning them into insights that drive decisions.  
+🎯 My goal is to become a top remote Data Analyst helping businesses make smarter choices through data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Data Visualization:** Power BI, Excel, Tableau  
+- **Database:** SQL (MySQL, PostgreSQL)  
+- **Analytics:** Data Cleaning, EDA, Reporting  
+- **Other:** Git, GitHub, Jupyter Notebook
+
+---
+
+## 📂 Projects
+
+| Project | Description | Tools |
+|----------|--------------|-------|
+| [Sales Data Analysis](#) | Analyzed company sales data to identify top products, regions, and growth trends. | Python, Power BI |
+| [Customer Churn Prediction](#) | Built a model to predict customer churn using logistic regression. | Python, Pandas, Scikit-learn |
+| [HR Analytics Dashboard](#) | Created an interactive HR analytics dashboard to track attrition and performance. | Power BI |
+
+🛠️ *(Replace # with project links once uploaded)*
+
+---
+
+## 📊 My Current Focus
+- Building real-world data projects  
+- Strengthening SQL query performance  
+- Learning advanced Power BI and dashboard automation
+
+---
+
+## 📫 Connect With Me
+📧 **[syedaliasad909@gmail.com]**  
+🌍 [LinkedIn](#)*
+
+---
+
+> *“Data beats opinion.” — W. Edwards Deming*
+
